@@ -63,7 +63,7 @@ hr {
     height: 1px;
 }
 
-h1, h2 {
+h1 {
     font-weight: 100;
     margin-bottom: 0;
 }
@@ -71,3 +71,10 @@ h1, h2 {
     border-right: 1px solid lightgray;
     background-color: #0ab2c9;
 } 
+h2 {
+    background-color: black;
+    color : White;
+    font-weight: 100;
+    padding-bottom: 0px;
+    text-align: center;
+}
