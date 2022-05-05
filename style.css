@@ -3,6 +3,7 @@ body {
     font-size: 12px;
     max-width: 960px;
     margin: auto;
+    background-color: rgba(215, 236, 245, 0.274);
 }
 h1 {
     font-size: 3em;
@@ -19,7 +20,8 @@ main {
     display: grid;
     grid-template-columns: 40% 60%;
     margin-top: 3em;
-    background-color: rgba(215, 236, 245, 0.274);
+    background-color: WHITE;
+    margin: auto 2em;
 }
 header {
     text-align: center;
@@ -28,11 +30,13 @@ header {
     grid-template-columns: auto auto;
     background-color:rgb(10, 178, 201);
     padding-top: 10px;
+    
 }
 #position {
     text-align: center;
     color: white;
     background-color: black;
+    margin: auto 2em;
 }
 img {
     border-radius: 50%;
