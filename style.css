@@ -19,7 +19,7 @@ main {
     display: grid;
     grid-template-columns: 40% 60%;
     margin-top: 3em;
-    background-color: rgba(240, 236, 232, 0.548);
+    background-color: rgba(215, 236, 245, 0.274);
 }
 header {
     text-align: center;
