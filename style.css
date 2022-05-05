@@ -19,13 +19,20 @@ main {
     display: grid;
     grid-template-columns: 40% 60%;
     margin-top: 3em;
+    background-color: rgba(240, 236, 232, 0.548);
 }
 header {
     text-align: center;
     margin: auto 2em;
     display: grid;
     grid-template-columns: auto auto;
-    background-color:powderblue
+    background-color:rgb(10, 178, 201);
+    padding-top: 10px;
+}
+#position {
+    text-align: center;
+    color: white;
+    background-color: black;
 }
 img {
     border-radius: 50%;
@@ -33,6 +40,9 @@ img {
 
 section {
     margin: auto 1em 4em 2em;
+    
+
+    
 }
 
 i {
