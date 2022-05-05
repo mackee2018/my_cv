@@ -24,7 +24,11 @@ header {
     text-align: center;
     margin: auto 2em;
     display: grid;
-    grid-template-columns: 40% 60%;
+    grid-template-columns: auto auto;
+    background-color:powderblue
+}
+img {
+    border-radius: 50%;
 }
 
 section {
